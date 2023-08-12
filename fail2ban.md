@@ -1,5 +1,10 @@
 ### fail2ban 
 
+- Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time
+- Fail2ban is an intrusion prevention software framework
+- Written in the Python programming language
+- it is designed to prevent brute-force attacks.
+
 Installation of fail2ban in centos
 
 update the server
