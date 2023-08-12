@@ -1,2 +1,2 @@
 # demo
-demo repo
+Linux demo repo
