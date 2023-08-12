@@ -63,7 +63,7 @@ enable and start fail2ban service
 systemctl enable fail2ban
 systemctl start fail2ban
 ```
-To check for Fal2Ban Status
+To check for Fail2Ban Status
 ```
 fail2ban-client status
 ```
